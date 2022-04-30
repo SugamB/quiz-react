@@ -1,9 +1,9 @@
 ## https://reactquizsample.netlify.app/
 
-Sample Quiz App using React and react-hooks
-Loads 5 questions in random order.
-Ability to save the answer state when you go back and forth between questions
-Must answer at least one question to end the quiz
+1. Sample Quiz App using React and react-hooks
+2. Loads 5 questions in random order.
+3. Ability to save the answer state when you go back and forth between questions
+4. Must answer at least one question to end the quiz
 
 ## Sample Screenshots
 ![image](https://user-images.githubusercontent.com/85941980/166123239-6d382e53-8d57-42b9-ad0c-27f906528a22.png)
