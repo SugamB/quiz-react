@@ -1,0 +1,108 @@
+{
+    "options": [
+      {
+        "questionID": 1,
+        "question": "General Knowledge",
+        "subQuestion": "Grand Central Terminal, Park Avenue, New York is the world's",
+        "answers": [
+          {
+            "id": "1",
+            "answer": "largest station"
+          },
+          {
+            "id": "2",
+            "answer": "highest station"
+          },
+          {
+            "id": "3",
+            "answer": "longest station"
+          },
+          {
+            "id": "4",
+            "answer": "None of these"
+          }
+        ],
+        "correctAnswerID": 1
+      },
+      {
+        "questionID": 2,
+        "question": "General Science",
+        "subQuestion": "Brass gets discoloured in presence of which of the following gases in air?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Oxygen"
+          },
+          {
+            "id": "2",
+            "answer": "Hydrogen"
+          },
+          {
+            "id": "3",
+            "answer": "Carbon dioxide"
+          },
+          {
+            "id": "4",
+            "answer": "Nitrogen"
+          }
+        ],
+        "correctAnswerID": 2
+      },
+      {
+        "questionID": 3,
+        "question": "Sports",
+        "subQuestion": "How long are professional Golf Tour players allotted per shot?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "45 seconds"
+          },
+          {
+            "id": "2",
+            "answer": "25 seconds"
+          }
+        ],
+        "correctAnswerID": 1
+      },
+      {
+        "questionID": 4,
+        "question": "Technology",
+        "subQuestion": "In which decade was American Institute of Electrical Engineers(AIEE) founded?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "1850s"
+          },
+          {
+            "id": "2",
+            "answer": "1880s"
+          }
+        ],
+        "correctAnswerID": 2
+      },
+      {
+        "questionID": 5,
+        "question": "Inventions",
+        "subQuestion": "Which scientist discovered the radioactive element radium?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Isaac Newton"
+          },
+          {
+            "id": "2",
+            "answer": "Albert Einstein"
+          },
+          {
+            "id": "3",
+            "answer": "Benjamin Franklin"
+          },
+          {
+            "id": "4",
+            "answer": "Marie Curie"
+          }
+        ],
+        "correctAnswerID": 4
+      }
+    ]
+  }
